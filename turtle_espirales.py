@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# los numero de las lineas de codigo 15 y 18 se pueden editar para tener otras figuras.
 """
 Created on Wed Jun 22 10:12:48 2022
 
